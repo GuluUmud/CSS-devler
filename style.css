@@ -1,0 +1,68 @@
+
+#siniflandirilma {
+    color: blueviolet;
+    font-size: large;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: red;
+    font-family: fantasy;
+    list-style-position: inside;
+    text-align: center;
+}
+
+h1 {
+    font-size: 55px;
+}
+
+h2 {
+    font-size: 42px;
+}
+
+.baslik {
+    color: rgb(4, 4, 74);
+    font-size: large;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: wavy;
+}
+
+p, ul {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-shadow: black;
+}
+
+#canlilar {
+    text-wrap: pretty;
+    list-style-type: square;
+    color: darkblue;
+}
+
+img {
+    list-style-type: lower-alpha;
+    text-wrap: wrap;
+    width: 85%;
+}
+
+figcaption {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    color: darkslategrey;
+}
+
+button {
+    font-size: large;
+    text-align: center;
+    align-items: center;
+    background-color: red;
+    color: aliceblue;
+    border: 3;
+}
+
+.kaynaklar {
+    text-align: center;
+}

@@ -1,0 +1,7 @@
+#videos
+*.vob
+*.mp4
+
+#images
+*.jpg
+*.png

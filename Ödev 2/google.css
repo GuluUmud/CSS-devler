@@ -1,0 +1,72 @@
+body {
+    background-color: #FFFFFF;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+center {
+    display: block;
+    text-align: center;
+    unicode-bidi: isolate;
+}
+
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    line-height: normal;
+    font-weight: normal;
+    font-size: small;
+    font-style: normal;
+    border-spacing: 2px;
+    white-space: normal;
+    font-variant: normal;
+    padding: auto;
+}
+
+table {
+    border: 0;
+    width: 90%;
+    table-layout: initial;
+}
+
+th.baslik {
+    column-span: 3;
+    text-align: center;
+}
+
+tr.baslik {
+    background-color: #EEEEEE;
+    ruby-merge: 0;
+}
+
+.baslik {
+    border: #EEEEEE;
+    border-spacing: 0px;
+    column-gap: 0;
+    row-gap: 0;
+    border-collapse: collapse;
+}
+
+td.baslik {
+    background-color: #EEEEEE;
+}
+
+div.baslik {
+    background-color: #EEEEEE;
+}
+
+td.first-col {
+    width: 37%;
+    background-color: #7EE5DA;
+    text-align: center;
+}
+
+td.second-col {
+    background-color: #70CCC2;
+    text-align: center;
+}
+
+td.third-col {
+    background-color: #62B3AA;
+    width: 37%;
+    text-align: center;
+}
